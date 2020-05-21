@@ -1,0 +1,13 @@
+c:\users\dilek eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\bin\Debug\pansiyon kayıt otomasyonu.exe.config
+c:\users\dilek eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\bin\Debug\pansiyon kayıt otomasyonu.exe
+c:\users\dilek eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\bin\Debug\pansiyon kayıt otomasyonu.pdb
+c:\users\dilek eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon kayıt otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\dilek eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon_kayıt_otomasyonu.Properties.Resources.resources
+c:\users\dilek eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon kayıt otomasyonu.csproj.GenerateResource.Cache
+c:\users\dilek eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon kayıt otomasyonu.exe
+c:\users\dilek eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon kayıt otomasyonu.pdb
+C:\Users\Dilek Eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon_kayıt_otomasyonu.FrmYeniMusteri.resources
+C:\Users\Dilek Eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon_kayıt_otomasyonu.FrmAnaForm.resources
+C:\Users\Dilek Eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon_kayıt_otomasyonu.FrmAdminGiris.resources
+C:\Users\Dilek Eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon_kayıt_otomasyonu.FrmOdalar.resources
+C:\Users\Dilek Eda\documents\visual studio 2015\Projects\pansiyon kayıt otomasyonu\pansiyon kayıt otomasyonu\obj\Debug\pansiyon_kayıt_otomasyonu.FrmMusteriler.resources
